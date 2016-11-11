@@ -1,7 +1,7 @@
 {
   "name": "xlsx-writestream2",
   "description": "Streaming XLSX writer",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "homepage": "https://github.com/STRML/node-xlsx-writestream",
   "author": "STRML (Samuel Reed)",
   "repository": {
