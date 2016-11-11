@@ -1,3 +1,5 @@
+**Note**: This is is a fork of *xlsx-writestream* with unmerged pull requests applied and republished as *xlsx-writestream2*. All kudos to original authors.
+
 # Node-XLSX-Writestream
 
 Simple streaming XLSX writer. Reverse-engineered from sample XLSX files.
