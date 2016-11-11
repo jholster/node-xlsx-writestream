@@ -2,8 +2,6 @@
 
 Simple streaming XLSX writer. Reverse-engineered from sample XLSX files.
 
-[![Build Status](https://travis-ci.org/STRML/node-xlsx-writestream.png?branch=master)](https://travis-ci.org/STRML/node-xlsx-writestream)
-
 Node-XLSX-WriteStream is written in [Literate CoffeeScript](http://coffeescript.org/#literate), so the source
 can be viewed as Markdown.
 
@@ -15,11 +13,11 @@ This repository is a streaming fork of [node-xls-writer](https://github.com/rube
 
 You can install the latest version via npm:
 
-    $ npm install --save xlsx-writestream
+    $ npm install --save xlsx-writestream2
 
 Require the module:
 
-    var xlsx = require('xlsx-writestream');
+    var xlsx = require('xlsx-writestream2');
 
 Write a spreadsheet:
 
